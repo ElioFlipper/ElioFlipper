@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hi, I'm Carmelo! 👨‍💻
 
-<!--
-**ElioFlipper/ElioFlipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast with a passion for creating innovative and creative solutions. Ever since I wrote my first "Hello, World!", I've been fascinated by the potential of programming to make meaningful and positive impacts in people's lives.
 
-Here are some ideas to get you started:
+🚀 I specialize in Full-Stack, where I love to explore the latest trends and put my boldest ideas into practice. With a problem-solving mindset and an eye for detail, I strive to deliver high-quality solutions that exceed expectations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 In my free time, I enjoy motorcycle, bicycle, adrenaline-pumping activities and gym. I'm always on the lookout for new challenges and opportunities for personal and professional growth.
+
+💡 I'm constantly learning, growing, and taking on new challenges. If you're interested in collaborating on exciting projects or simply connecting with fellow tech enthusiasts, feel free to reach out!
+
+📫 You can find me on:
+
+GitHub: https://github.com/ElioFlipper
+LinkedIn: https://www.linkedin.com/in/carmelo-sanfratello-6b2973190/
